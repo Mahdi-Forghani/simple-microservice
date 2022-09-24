@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learn\\microservices\\platform-service\\platform-service.csproj": {}
+    "D:\\learn\\microservices\\PlatformService\\platform-service.csproj": {}
   },
   "projects": {
-    "D:\\learn\\microservices\\platform-service\\platform-service.csproj": {
+    "D:\\learn\\microservices\\PlatformService\\platform-service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn\\microservices\\platform-service\\platform-service.csproj",
+        "projectUniqueName": "D:\\learn\\microservices\\PlatformService\\platform-service.csproj",
         "projectName": "platform-service",
-        "projectPath": "D:\\learn\\microservices\\platform-service\\platform-service.csproj",
+        "projectPath": "D:\\learn\\microservices\\PlatformService\\platform-service.csproj",
         "packagesPath": "C:\\Users\\13981588\\.nuget\\packages\\",
-        "outputPath": "D:\\learn\\microservices\\platform-service\\obj\\",
+        "outputPath": "D:\\learn\\microservices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
